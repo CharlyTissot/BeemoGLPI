@@ -4,7 +4,7 @@
 
 [![GLPI](https://img.shields.io/badge/GLPI-10.x%20%7C%2011.x-blue)](https://glpi-project.org)
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)](https://php.net)
-[![Author](https://img.shields.io/badge/Author-DuoTech-orange)](https://charlytissot.me)
+[![Author](https://img.shields.io/badge/Author-CharlyTissot-orange)](https://charlytissot.me)
 
 ---
 
