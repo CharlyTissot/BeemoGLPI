@@ -6,6 +6,11 @@
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)](https://php.net)
 [![Author](https://img.shields.io/badge/Author-CharlyTissot-orange)](https://charlytissot.me)
 
+> ☕ **Un café pour soutenir mes projets libres ?!** → https://buymeacoffee.com/charlytissot
+
+[![Buy Me A Coffee](https://img.shields.io/badge/%E2%98%95%20Un%20caf%C3%A9%20pour%20soutenir%20mes%20projets%20libres-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/charlytissot)
+
+
 ---
 
 ## Présentation
